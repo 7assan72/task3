@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+  
+}
+.body{
+    background-color:#051027;
+    height: 2000px;
+  
+}
+
+.navbar{
+    color: azure;
+    position: fixed;
+    top: 0;
+    z-index: 55;
+}
+
+.im1{
+    background-color:#051027;
+    
+}
+
+.fas{
+  
+    color: 1d9bf0;
+}
+.navbar-nav{
+    margin-left: 10px;
+    color: blue;
+}
+.carousel-inner .carousel-caption{
+    background: rgba(200, 200, 200, 0.1);
+    border-radius: 8px;
+}
+.fixedimg{
+    background-attachment: fixed;
+    background-size: cover;
+    height: 400px;
+    }
+.fixedimg1{
+
+    background-image: url(../images/1339.jpg);
+    }
+
+
+.fixedimg2{
+    background-image: url(../images/pexels-tranmautritam-326509.jpg);
+    }
+
